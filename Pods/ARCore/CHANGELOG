@@ -1,0 +1,5 @@
+Version 1.2.0 - May 2018
+=============================
+- Initial release alongside ARCore 1.2 on Android.
+- Support for Cloud Anchors.
+- Supported devices: iPhone X, 8, 8+, 7, 7+, 6S, 6S+, SE.
